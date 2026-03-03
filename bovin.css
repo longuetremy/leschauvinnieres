@@ -530,7 +530,7 @@ cursor: pointer;
   max-width: 500px;
   position: relative;
   border: 1px solid black;
-  max-height: 70vh;         /* Limite la hauteur de la modal */
+  max-height: 60vh;         /* Limite la hauteur de la modal */
   overflow-y: auto;  
   user-select: none;
 }
