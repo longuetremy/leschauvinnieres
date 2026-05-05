@@ -1202,7 +1202,7 @@ img {
 /* Media Queries pour la Responsivité */
 
 /* Pour les écrans plus petits (tablettes, mobiles) */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 668px) {
     .photo-text-container0 {
         display: none;
     }
